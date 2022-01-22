@@ -1,0 +1,29 @@
+"Phrases"
+{
+	"File Error"
+	{
+		"en"			"'addons/sourcemod/configs/CSGO-Turkiye_com/admin_tag_and_name_obligation.ini' file not found."
+		"tr"			"'addons/sourcemod/configs/CSGO-Turkiye_com/admin_tag_and_name_obligation.ini' dosyası bulunamadı."
+	}
+
+	"Tag and Name"
+	{
+		"#format" 		"{1:s}{2:s}"
+		"en"			"{darkred}To use this command, you need to get {orchid}{1} {darkred}group tag and {orchid}{2} {darkred}name suffix."
+		"tr"			"{darkred}Bu komutu kullanabilmek için {orchid}{1} {darkred}grup etiketini ve {orchid}{2} {darkred}isim ekini almanız gerekmektedir."
+	}
+
+    "Tag"
+	{
+		"#format" 		"{1:s}"
+		"en"			"{darkred}To use this command, you need to get {orchid}{1} {darkred}group tag."
+		"tr"			"{darkred}Bu komutu kullanabilmek için {orchid}{1} {darkred}grup etiketini almanız gerekmektedir."
+	}
+
+    "Name"
+	{
+		"#format" 		"{1:s}"
+		"en"			"{darkred}To use this command, you need to get {orchid}{1} {darkred}name suffix."
+		"tr"			"{darkred}Bu komutu kullanabilmek için {orchid}{1} {darkred}isim ekini almanız gerekmektedir."
+	}
+}
